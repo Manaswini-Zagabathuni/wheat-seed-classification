@@ -103,7 +103,3 @@ jupyter notebook wheat-seed-classification.ipynb
 - **scikit-learn** — modeling, tuning, evaluation
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
