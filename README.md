@@ -1,10 +1,10 @@
-# 🌾 Wheat Seed Classification
+# Wheat Seed Classification
 
-A machine learning project that classifies three varieties of wheat — **Kama**, **Rosa**, and **Canadian** — using physical seed measurements, with an ensemble model achieving 90% test accuracy.
+A machine learning project that classifies three varieties of wheat: **Kama**, **Rosa**, and **Canadian**  using physical seed measurements, with an ensemble model achieving 90% test accuracy.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project applies and compares multiple classification algorithms on the Seeds dataset to identify wheat varieties based on geometric features of wheat kernels. It covers the full ML pipeline from statistical analysis to ensemble modeling.
 
@@ -14,7 +14,7 @@ This project applies and compares multiple classification algorithms on the Seed
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── wheat-seed-classification.ipynb   # Main Jupyter Notebook (full pipeline)
@@ -24,7 +24,7 @@ This project applies and compares multiple classification algorithms on the Seed
 
 ---
 
-## 🔍 Features Used
+## Features Used
 
 | Feature | Description |
 |---|---|
@@ -40,7 +40,7 @@ This project applies and compares multiple classification algorithms on the Seed
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### 1. Data Preparation
 - 199 samples split into train (60%), validation (20%), and test (20%)
@@ -64,7 +64,7 @@ This project applies and compares multiple classification algorithms on the Seed
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Prerequisites
 
@@ -82,7 +82,7 @@ jupyter notebook wheat-seed-classification.ipynb
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Model | Precision | Recall | F1-Score | Accuracy |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ jupyter notebook wheat-seed-classification.ipynb
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3**
 - **pandas**, **NumPy**, **SciPy** — data handling & statistics
