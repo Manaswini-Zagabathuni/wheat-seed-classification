@@ -86,10 +86,10 @@ jupyter notebook wheat-seed-classification.ipynb
 
 | Model | Precision | Recall | F1-Score | Accuracy |
 |---|---|---|---|---|
-| Logistic Regression | — | — | — | 85% |
-| SVM | 0.93 (Rosa) | 0.93 (Rosa) | — | 87.5% |
-| Random Forest | — | — | — | 87.5% |
-| **Ensemble** | **high** | **1.00 (Canadian)** | **—** | **90%** |
+| Logistic Regression | - | - | - | 85% |
+| SVM | 0.93 (Rosa) | 0.93 (Rosa) | - | 87.5% |
+| Random Forest | - | - | - | 87.5% |
+| **Ensemble** | **high** | **1.00 (Canadian)** | **-** | **90%** |
 
 > Canadian class achieved perfect recall (1.00) with the Ensemble model.
 
@@ -98,8 +98,8 @@ jupyter notebook wheat-seed-classification.ipynb
 ##  Tech Stack
 
 - **Python 3**
-- **pandas**, **NumPy**, **SciPy** — data handling & statistics
-- **matplotlib**, **seaborn** — visualization
-- **scikit-learn** — modeling, tuning, evaluation
+- **pandas**, **NumPy**, **SciPy** - data handling & statistics
+- **matplotlib**, **seaborn** - visualization
+- **scikit-learn** - modeling, tuning, evaluation
 
 ---
