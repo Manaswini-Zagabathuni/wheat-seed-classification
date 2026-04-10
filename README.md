@@ -4,7 +4,7 @@ A machine learning project that classifies three varieties of wheat: **Kama**, *
 
 ---
 
-## Project Overview 
+## Project Overview  
 
 This project applies and compares multiple classification algorithms on the Seeds dataset to identify wheat varieties based on geometric features of wheat kernels. It covers the full ML pipeline from statistical analysis to ensemble modeling.
 
