@@ -10,7 +10,7 @@ This project applies and compares multiple classification algorithms on the Seed
 
 **Best Model:** Ensemble (Logistic Regression + SVM + Random Forest)  
 **Best Test Accuracy:** 90%  
-**Key Metric:** Accuracy, Precision, Recall, F1-Score
+**Key Metric:** Accuracy, Precision, Recall, F1-Score 
 
 --- 
 
