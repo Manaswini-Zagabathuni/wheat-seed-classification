@@ -12,7 +12,7 @@ This project applies and compares multiple classification algorithms on the Seed
 **Best Test Accuracy:** 90%  
 **Key Metric:** Accuracy, Precision, Recall, F1-Score
 
----
+--- 
 
 ## Project Structure
 
