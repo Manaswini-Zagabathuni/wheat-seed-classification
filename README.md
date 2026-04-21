@@ -61,7 +61,7 @@ This project applies and compares multiple classification algorithms on the Seed
 | SVM | kernel=rbf, C=1, gamma=scale | 87.5% |
 | Random Forest | max_depth=15, n_estimators=100 | 87.5% |
 | **Ensemble (Voting)** | soft voting (all 3) | **90%** |
-
+ 
 ---
 
 ##  How to Run
