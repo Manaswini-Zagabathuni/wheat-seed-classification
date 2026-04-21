@@ -3,7 +3,7 @@
 A machine learning project that classifies three varieties of wheat: **Kama**, **Rosa**, and **Canadian**  using physical seed measurements, with an ensemble model achieving 90% test accuracy.
 
 ---
-
+ 
 ## Project Overview  
 
 This project applies and compares multiple classification algorithms on the Seeds dataset to identify wheat varieties based on geometric features of wheat kernels. It covers the full ML pipeline from statistical analysis to ensemble modeling.
