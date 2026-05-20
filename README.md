@@ -1,7 +1,7 @@
 # Wheat Seed Classification
 
 A machine learning project that classifies three varieties of wheat: **Kama**, **Rosa**, and **Canadian**  using physical seed measurements, with an ensemble model achieving 90% test accuracy.
-
+ 
 ---
 
 ## Project Overview  
